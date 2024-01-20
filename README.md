@@ -54,11 +54,6 @@ Visit the [competition website](https://zindi.africa/competitions/sasol-customer
 - **Approach & Methodology:** Demonstrated a robust methodology for model development and fine-tuning.
 - **Verbal Presentation:** Prepared to communicate findings and methodology effectively.
 
-## Next Steps
-
-- Submit the solution for consideration.
-- Include an up-to-date CV with the solution submission.
-
 ---
 
 Feel free to modify this template based on specific details and additional insights from your project. The key is to provide a clear and concise overview of each project stage and emphasize your achievements and approach.
