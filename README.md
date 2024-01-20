@@ -55,5 +55,3 @@ Visit the [competition website](https://zindi.africa/competitions/sasol-customer
 - **Verbal Presentation:** Prepared to communicate findings and methodology effectively.
 
 ---
-
-Feel free to modify this template based on specific details and additional insights from your project. The key is to provide a clear and concise overview of each project stage and emphasize your achievements and approach.
