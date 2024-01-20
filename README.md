@@ -58,3 +58,7 @@ Sasol is a global chemicals and energy company, committed to innovating for a be
 - **Verbal Presentation:** Prepared to communicate findings and methodology effectively.
 
 ---
+This summary provides an overview of the tasks performed in your notebook. If you have specific questions or need assistance with any part of the code, feel free to ask!  
+  
+Email: makalamabotjasfp@gmail.com  
+LinkedIn: [Makala Mabotja](https://www.linkedin.com/in/makala-mabotja/)
