@@ -11,9 +11,7 @@ This project aims to develop a machine-learning model to forecast the probabilit
 Sasol is a global chemicals and energy company, committed to innovating for a better world. They operate in 22 countries, focusing on triple bottom line outcomes of People, Planet, and Profit.
 
 ## [Competition Website](https://zindi.africa/competitions/sasol-customer-retention-recruitment-competition/leaderboard)
-
-Visit the competition website for the leaderboard and additional details.
----
+##### Visit the competition website for the leaderboard and additional details.
 
 ## Project Structure:
 
